@@ -18,7 +18,7 @@ Yoga Pose Detector is a Yoga pose correction tool that recognizes the Yoga pose 
     ```
 3.  Run the app with Streamlit
     ```sh
-    pip install -r requirements.txt
+    streamlit run app.py
     ```
 
 ## Built With
